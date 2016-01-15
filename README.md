@@ -12,3 +12,6 @@
 
 ## 文档管理
 [FengOffice](http://www.fengoffice.com/): 前身是opengoo，这是一个历史悠久开源的网上办公系统。她集成了项目、任务管理，部门、人员管理，文档、日程管理等多种管理功能，简洁实用、安装方便、配置简单。适合中小企业用于团队协同及项目管理。代码托管在[http://sourceforge.net/projects/opengoo/](http://sourceforge.net/projects/opengoo/)，当前版本是v3.4。  
+
+## 电子商务
+[WooCommerce](https://www.woothemes.com/woocommerce/)：一个非常流行的WordPress电子商城插件，当前稳定版本是v2.4.13
