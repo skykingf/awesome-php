@@ -15,3 +15,6 @@
 
 ## 电子商务
 [WooCommerce](https://www.woothemes.com/woocommerce/)：一个非常流行的WordPress电子商城插件，当前稳定版本是v2.4.13
+
+## 企业门户
+[蝉知企业门户系统](http://www.chanzhi.org/)：青岛易软天创网络科技有限公司开发的企业建站系统，采用Z PUBLIC LICENSE协议发布，当前版本是v5.1。
