@@ -22,6 +22,10 @@
 ## Bug管理
 [禅道](http://www.zentao.net/)：国内用的较多的中文Bug管理系统，是青岛易软天创网络科技有限公司开发的开源项目管理软件，采用Z PUBLIC LICENSE协议发布，当前版本是v8.0.1。
 
+## 私有存储
+[大桌子办公](http://www.dzzoffice.com/)：国内的私有存储系统，适合做企业的文件管理用。Leyun Internet Technology(Shanghai) Co.,Ltd 开发，当前版本是v1.2.4。
+[ownCloud](https://owncloud.org/)：比较完善的云存储系统，接近于百度网盘的效果了，Server端的当前版本是v8.2.2。
+
 ## 源码加密
 [PHP Beast](https://github.com/liexusong/php-beast/)：列旭松开发的源码加密扩展，Github上Star数量较多。
 [PHP Screw](https://sourceforge.net/projects/php-screw/)：一个比较老的源码加密扩展，最新版本是v1.5。
