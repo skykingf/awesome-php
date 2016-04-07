@@ -3,7 +3,7 @@
 
 ## Web框架
 [Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.2。
-[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是v5.0RC1。
+[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是v5.0RC2。
 
 ## OA
 [小微OA](http://www.smeoa.com/): 小微OA是针对小公司量身定做的办公系统，主要功能：邮件，审批，信息，文档，任务，外勤微信定位，微信考勤，微信通知。
@@ -30,3 +30,6 @@
 ## 源码加密
 [PHP Beast](https://github.com/liexusong/php-beast/)：列旭松开发的源码加密扩展，Github上Star数量较多。
 [PHP Screw](https://sourceforge.net/projects/php-screw/)：一个比较老的源码加密扩展，最新版本是v1.5。
+
+## 微信开发
+[微擎](http://www.we7.cc/)：宿州微擎网络科技开发的一款免费开源的公众平台管理系统，良好的开发框架、文档，轻松扩展、定制私有功能，最新版本是v0.7。
