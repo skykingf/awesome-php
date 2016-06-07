@@ -25,7 +25,8 @@
 [iWebShop](http://aircheng.com/)：上海商派网络科技有限公司开发的开源电子商务系统，当前稳定版本是v2.7.3_release1106(http://download.ecshop.com/2.7.3/ECShop_V2.7.3_UTF8_release1106.rar)。   
 
 ## 企业门户
-[蝉知企业门户系统](http://www.chanzhi.org/)：青岛易软天创网络科技有限公司开发的企业建站系统，采用Z PUBLIC LICENSE协议发布，当前版本是v5.1。
+[蝉知企业门户系统](http://www.chanzhi.org/)：青岛易软天创网络科技有限公司开发的企业建站系统，采用Z PUBLIC LICENSE协议发布，当前版本是v5.1。   
+[OurPHP](http://www.ourphp.net/)：哈尔滨伟成科技有限公司开发的企业建站系统和电子商务系统，当前版本是v1.6.1。    
 
 ## Bug管理
 [禅道](http://www.zentao.net/)：国内用的较多的中文Bug管理系统，是青岛易软天创网络科技有限公司开发的开源项目管理软件，采用Z PUBLIC LICENSE协议发布，当前版本是v8.0.1。
