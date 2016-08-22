@@ -51,3 +51,6 @@
 
 ## Web统计
 [Piwik](https://github.com/piwik/piwik): PHP和MySQL的开放源代码的Web统计软件，提供指定网站的实用统计报告，如网页浏览人数, 访问最多的页面, 搜索引擎关键词等。拥有众多不同功能的插件，可以添加新的功能或是移除不需要的功能，可以非常容易的插入统计图表到博客或是网站后台的控制面板中。当前稳定版本v2.16.1。  
+
+## Office文档处理
+[PHPExcel](https://github.com/PHPOffice/PHPExcel): PHPExcel是由纯PHP语言编写的Excel文档处理类集合。当前稳定版本v1.8.1。
