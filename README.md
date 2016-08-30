@@ -54,3 +54,6 @@
 
 ## Office文档处理
 [PHPExcel](https://github.com/PHPOffice/PHPExcel): PHPExcel是由纯PHP语言编写的Excel文档处理类集合。当前稳定版本v1.8.1。
+
+## CRM
+[SugarCRM](https://github.com/sugarcrm/sugarcrm_dev): SugarCRM开源版是一款完全开放源代码的商业开源软件，具有界面活泼、简单易学的特点，当前稳定版本v6.5.24。   
