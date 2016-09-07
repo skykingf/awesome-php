@@ -57,3 +57,6 @@
 
 ## CRM
 [SugarCRM](https://github.com/sugarcrm/sugarcrm_dev): SugarCRM开源版是一款完全开放源代码的商业开源软件，具有界面活泼、简单易学的特点，当前稳定版本v6.5.24。   
+
+## 单点登录SSO
+[SimpleSAMLphp](https://simplesamlphp.org/): SimpleSAMLphp是一款PHP编写的单点登录系统，实现了SAML 2.0服务提供者和标识提供者功能，兼容Shibboleth 1.3 和2.0，当前稳定版本v1.14.6。   
