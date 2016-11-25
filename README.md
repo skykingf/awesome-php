@@ -6,13 +6,22 @@
 
 [ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是v5.0.3。
 
+## CMS
+[WordPress](https://wordpress.org/): WordPress是一款个人博客系统，并逐步演化成一款内容管理系统软件，有许多第三方开发的免费模板，安装方式简单易用。当前稳定版本v4.6.1。   
+
+[Drupal](https://www.drupal.org/): Drupal是一个开源的内容管理系统(CMS)。主要用于构造提供多种功能和服务的动态网站，这些功能包括用户管理(UserAdministration)、发布工作流 (Publishing Workflow)、讨论、新闻聚合(NewsAggregation)、元数据(Metadata)操作和用于内容共享的XML发布。Drupal有一个优秀的模块化结构，提供了许多模块，包括短消息、个性化书签、网站管理、Blog、日记、电子商务、电子出版、留言簿、Job、网上电影院、论坛、投票 等模块。并且Drupal模块的下载、安装、定制非常方便。当前稳定版本v8.2.3。   
+
 ## OA
 [小微OA](http://www.smeoa.com/): 小微OA是针对小公司量身定做的办公系统，主要功能：邮件，审批，信息，文档，任务，外勤微信定位，微信考勤，微信通知。
 设计理念：简单高效，无需培训轻松上手。提供定制开发。满足客户个性化需求。代码托管在[https://git.oschina.net/smeoa/xiaowei](https://git.oschina.net/smeoa/xiaowei)。  
 
-[RockOA](http://www.xh829.com/): ROCK协同办公OA系统。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。当前版本为v2.3.2。    
+[信呼](http://www.xh829.com/): 由RockOA发展而来。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。代码托管在[https://git.oschina.net/rainrock/xinhu](https://git.oschina.net/rainrock/xinhu/)，当前版本为v1.1.9。    
 
-[然之](https://www.ranzhico.com/): 青岛易软天创网络科技有限公司开发的开源OA系统。当前版本为v3.7。
+[然之](https://www.ranzhico.com/): 青岛易软天创网络科技有限公司开发的开源OA系统。当前版本为v3.7。  
+
+[IBOS](http://www.ibos.com.cn/): 一个基于Yii框架，快速、高效的协同办公管理系统。代码托管在[https://git.oschina.net/ibos/IBOS](http://git.oschina.net/ibos/IBOS)，当前版本为v3.8。
+
+[Open Atrium](http://www.openatrium.com/): Open Atrium 是一套基于Drupal的内部网工具包，它预置了自定义面板、博客、手册、日历、任务分配系统、团队微博这六项功能，支持会员分组，每个分组都可以设置自己的界面和功能，比较适合做企业内联网和和团队内部协作系统也可以用来做项目管理系统、知识管理系统等。当前版本为v2.6.11。   
 
 ## 文档管理
 [FengOffice](http://www.fengoffice.com/): 前身是opengoo，这是一个历史悠久开源的网上办公系统。她集成了项目、任务管理，部门、人员管理，文档、日程管理等多种管理功能，简洁实用、安装方便、配置简单。适合中小企业用于团队协同及项目管理。代码托管在[http://sourceforge.net/projects/opengoo/](http://sourceforge.net/projects/opengoo/)，当前版本是v3.4.4.1。  
