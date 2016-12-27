@@ -9,7 +9,9 @@
 ## CMS
 [WordPress](https://wordpress.org/): WordPress是一款个人博客系统，并逐步演化成一款内容管理系统软件，有许多第三方开发的免费模板，安装方式简单易用。当前稳定版本v4.6.1。   
 
-[Drupal](https://www.drupal.org/): Drupal是一个开源的内容管理系统(CMS)。主要用于构造提供多种功能和服务的动态网站，这些功能包括用户管理(UserAdministration)、发布工作流 (Publishing Workflow)、讨论、新闻聚合(NewsAggregation)、元数据(Metadata)操作和用于内容共享的XML发布。Drupal有一个优秀的模块化结构，提供了许多模块，包括短消息、个性化书签、网站管理、Blog、日记、电子商务、电子出版、留言簿、Job、网上电影院、论坛、投票 等模块。并且Drupal模块的下载、安装、定制非常方便。当前稳定版本v8.2.3。   
+[Drupal](https://www.drupal.org/): Drupal是一个开源的内容管理系统(CMS)。主要用于构造提供多种功能和服务的动态网站，这些功能包括用户管理(UserAdministration)、发布工作流 (Publishing Workflow)、讨论、新闻聚合(NewsAggregation)、元数据(Metadata)操作和用于内容共享的XML发布。Drupal有一个优秀的模块化结构，提供了许多模块，包括短消息、个性化书签、网站管理、Blog、日记、电子商务、电子出版、留言簿、Job、网上电影院、论坛、投票 等模块。并且Drupal模块的下载、安装、定制非常方便。当前稳定版本v8.2.3。  
+
+[DedeCMS](http://www.dedecms.com/products/dedecms/): 织梦内容管理系统是国内使用较多的PHP网站内容管理系统。采用XML名字空间风格核心模板：模板全部使用文件形式保存，对用户设计模板、网站升级转移均提供很大的便利，健壮的模板标签为站长DIY 自己的网站提供了强有力的支持。高效率标签缓存机制：允许对类同的标签进行缓存，在生成 HTML的时候，有利于提高系统反应速度，降低系统消耗的资源。模型与模块概念并存：在模型不能满足用户所有需求的情况下，DedeCMS推出一些互动的模块对系统进行补充，尽量满足用户的需求。众多的应用支持：为用户提供了各类网站建设的一体化解决方案，在本版本中，增加了分类、书库、黄页、圈子、问答等模块，补充一些用户的特殊要求。当前稳定版本是[v5.7 SP1](http://updatenew.dedecms.com/base-v57/package/DedeCMS-V5.7-UTF8-SP1-Full.tar.gz)。  
 
 ## OA
 [小微OA](http://www.smeoa.com/): 小微OA是针对小公司量身定做的办公系统，主要功能：邮件，审批，信息，文档，任务，外勤微信定位，微信考勤，微信通知。
