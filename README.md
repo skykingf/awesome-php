@@ -4,7 +4,14 @@
 ## Web框架
 [Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.3。   
 
-[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是v5.0.3。
+[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是v5.0.4。   
+
+## ERP
+[Dolibarr](https://www.dolibarr.org/): Dolibarr是一个简单的跨平台的ERP和CRM系统，主要为中小型公司服务，可用来管理产品、库存、发票、订单、邮件列表等等，无需专业知识即可使用。开发时间较长，Github上Star和Fork数量都比较多，当前稳定版本v4.0.3，v5.0.0也发布了RC1版。   
+
+[inoERP](http://inoideas.org/): inoERP是一款新兴的适合中小企业使用的开源ERP系统，功能与Oracle ESB和SAP非常类似，包含ERP常见的所有功能。“动态式拉动”为核心设计理念 ，解决需求和供应链频繁变动而造成的库存不准确问题。Github上Star和Fork数量都比较多，当前稳定版本v0.5.1。   
+
+[webERP](http://www.weberp.org/): webERP是老牌的ERP与财务管理软件。它支持多公司、多币种、多税种、多库存管理；权限角色管理便于员工、客户和供应商使用；订单管理支持发票的跟踪与管理；销售费用管理及强大的销售分析功能，为管理者提供决策支持；提供全面的财务特性包括总帐、应收/ 应付帐目等；简单易于操作的Web界面，比较适合中小型的企业。当前稳定版本v4.13.1。   
 
 ## CMS
 [WordPress](https://wordpress.org/): WordPress是一款个人博客系统，并逐步演化成一款内容管理系统软件，有许多第三方开发的免费模板，安装方式简单易用。当前稳定版本v4.6.1。   
