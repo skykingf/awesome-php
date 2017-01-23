@@ -24,7 +24,7 @@
 [小微OA](http://www.smeoa.com/): 小微OA是针对小公司量身定做的办公系统，主要功能：邮件，审批，信息，文档，任务，外勤微信定位，微信考勤，微信通知。
 设计理念：简单高效，无需培训轻松上手。提供定制开发。满足客户个性化需求。代码托管在[https://git.oschina.net/smeoa/xiaowei](https://git.oschina.net/smeoa/xiaowei)。  
 
-[信呼](http://www.xh829.com/): 由RockOA发展而来。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。代码托管在[https://git.oschina.net/rainrock/xinhu](https://git.oschina.net/rainrock/xinhu/)，当前版本为v1.1.9。    
+[信呼](http://www.xh829.com/): 由RockOA发展而来。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。代码托管在[https://git.oschina.net/rainrock/xinhu](https://git.oschina.net/rainrock/xinhu/)，当前版本为v1.2.2。    
 
 [然之](https://www.ranzhico.com/): 青岛易软天创网络科技有限公司开发的开源OA系统。当前版本为v3.7。  
 
@@ -39,7 +39,7 @@
 [WooCommerce](https://www.woothemes.com/woocommerce/)：一个非常流行的WordPress电子商城插件，当前稳定版本是v2.6.4。   
 
 [ECShop](http://www.ecshop.com/)：上海商派网络科技有限公司开发的开源电子商务系统，当前稳定版本是[v2.7.3_release1106](http://download.ecshop.com/2.7.3/ECShop_V2.7.3_UTF8_release1106.rar)。   
-
+v
 [iWebShop](http://aircheng.com/)：济南爱程网络科技有限公司开发的开源电子商务系统，当前稳定版本是[v4.6](http://pan.baidu.com/s/1pLtUUoj)。   
 
 ## 企业门户
@@ -78,3 +78,14 @@
 
 ## 单点登录SSO
 [SimpleSAMLphp](https://simplesamlphp.org/): SimpleSAMLphp是一款PHP编写的单点登录系统，实现了SAML 2.0服务提供者和标识提供者功能，兼容Shibboleth 1.3 和2.0，当前稳定版本v1.14.9。   
+
+## 持续集成CI
+[Walle](https://github.com/meolu/walle-web/): Walle是一个web部署系统工具，也可是个持续发布工具，配置简单、功能完善、界面流畅，支持git、svn版本管理，支持各种web代码发布，静态的HTML，动态PHP，需要编译的JAVA等，基于Yii框架开发，当前版本是[v1.2.0](https://github.com/meolu/walle-web/archive/v1.2.0.zip)。   
+
+[Fixhub](https://github.com/Fixhub/Fixhub/): Fixhub是一款web自动部署系统，基于Laravel框架开发，支持PHP、Python、JAVA、Ruby等项目的发布，通过SSH将程序部署到多台服务器上，直接从Git仓库克隆项目代码并进行打包、安装，执行远程服务器bash命令，通过Websocket实现项目部署状态的实时跟踪，可通过webhook触发部署，当前版本是[v0.1.11](https://github.com/Fixhub/Fixhub/archive/0.1.11.zip)。   
+
+## 访问控制RBAC
+[Entrust](https://github.com/Zizaco/entrust/): Entrust是一个基于Laravel的角色管理开发包，当前稳定版本是[v1.7.0](https://github.com/Zizaco/entrust/archive/1.7.0.zip)。   
+
+## 微信
+[EasyWeChat](https://github.com/overtrue/wechat/): EasyWeChat是一个开源的微信非官方SDK，支持标准Composer，基于Laravel框架开发，Github上Star数较多，当前版本是[v3.2.3](https://github.com/overtrue/wechat/archive/3.2.3.zip)。    
