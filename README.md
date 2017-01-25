@@ -2,9 +2,9 @@
 汇集最有用的PHP资源
 
 ## Web框架
-[Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.3。   
+[Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.4。   
 
-[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是v5.0.4。   
+[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是v5.0.5。   
 
 ## ERP
 [Dolibarr](https://www.dolibarr.org/): Dolibarr是一个简单的跨平台的ERP和CRM系统，主要为中小型公司服务，可用来管理产品、库存、发票、订单、邮件列表等等，无需专业知识即可使用。开发时间较长，Github上Star和Fork数量都比较多，当前稳定版本v4.0.3，v5.0.0也发布了RC1版。   
@@ -77,7 +77,7 @@ v
 [SugarCRM](https://github.com/sugarcrm/sugarcrm_dev): SugarCRM开源版是一款完全开放源代码的商业开源软件，具有界面活泼、简单易学的特点，当前稳定版本v6.5.24。   
 
 ## 单点登录SSO
-[SimpleSAMLphp](https://simplesamlphp.org/): SimpleSAMLphp是一款PHP编写的单点登录系统，实现了SAML 2.0服务提供者和标识提供者功能，兼容Shibboleth 1.3 和2.0，当前稳定版本v1.14.9。   
+[SimpleSAMLphp](https://simplesamlphp.org/): SimpleSAMLphp是一款PHP编写的单点登录系统，实现了SAML 2.0服务提供者和标识提供者功能，兼容Shibboleth 1.3 和2.0，当前稳定版本v1.14.11。   
 
 ## 持续集成CI
 [Walle](https://github.com/meolu/walle-web/): Walle是一个web部署系统工具，也可是个持续发布工具，配置简单、功能完善、界面流畅，支持git、svn版本管理，支持各种web代码发布，静态的HTML，动态PHP，需要编译的JAVA等，基于Yii框架开发，当前版本是[v1.2.0](https://github.com/meolu/walle-web/archive/v1.2.0.zip)。   
