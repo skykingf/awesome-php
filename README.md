@@ -39,15 +39,16 @@
 [WooCommerce](https://www.woothemes.com/woocommerce/)：一个非常流行的WordPress电子商城插件，当前稳定版本是v2.6.4。   
 
 [ECShop](http://www.ecshop.com/)：上海商派网络科技有限公司开发的开源电子商务系统，当前稳定版本是[v2.7.3_release1106](http://download.ecshop.com/2.7.3/ECShop_V2.7.3_UTF8_release1106.rar)。   
-v
+
 [iWebShop](http://aircheng.com/)：济南爱程网络科技有限公司开发的开源电子商务系统，当前稳定版本是[v4.6](http://pan.baidu.com/s/1pLtUUoj)。   
 
 ## 企业门户
 [蝉知企业门户系统](http://www.chanzhi.org/)：青岛易软天创网络科技有限公司开发的企业建站系统，采用Z PUBLIC LICENSE协议发布，当前版本是v5.5。   
+
 [OurPHP](http://www.ourphp.net/)：哈尔滨伟成科技有限公司开发的企业建站系统和电子商务系统，当前版本是v1.6.1。    
 
 ## Bug管理
-[禅道](http://www.zentao.net/)：国内用的较多的中文Bug管理系统，是青岛易软天创网络科技有限公司开发的开源项目管理软件，采用Z PUBLIC LICENSE协议发布，当前版本是v8.3.1。
+[禅道](http://www.zentao.net/)：国内用的较多的中文Bug管理系统，是青岛易软天创网络科技有限公司开发的开源项目管理软件，采用Z PUBLIC LICENSE协议发布，当前版本是v8.3.1。  
 
 ## 私有存储
 [大桌子办公](http://www.dzzoffice.com/)：国内的私有存储系统，适合做企业的文件管理用。Leyun Internet Technology(Shanghai) Co.,Ltd 开发，当前版本是v1.2.5.2。  
@@ -68,7 +69,7 @@ v
 [Discuz! X](http://www.discuz.net/)：北京康盛新创科技有限责任公司开发的一款开源社区和论坛系统，国内用户量较大，最新版本是[v3.3](http://download.comsenz.com/DiscuzX/3.3/Discuz_X3.3_SC_UTF8.zip)。
 
 ## Web统计
-[Piwik](https://github.com/piwik/piwik): PHP和MySQL的开放源代码的Web统计软件，提供指定网站的实用统计报告，如网页浏览人数, 访问最多的页面, 搜索引擎关键词等。拥有众多不同功能的插件，可以添加新的功能或是移除不需要的功能，可以非常容易的插入统计图表到博客或是网站后台的控制面板中。当前稳定版本v2.17.1。  
+[Piwik](https://github.com/piwik/piwik): PHP和MySQL的开放源代码的Web统计软件，提供指定网站的实用统计报告，如网页浏览人数, 访问最多的页面, 搜索引擎关键词等。拥有众多不同功能的插件，可以添加新的功能或是移除不需要的功能，可以非常容易的插入统计图表到博客或是网站后台的控制面板中。当前稳定版本[v3.0.1](https://builds.piwik.org/piwik.zip)。  
 
 ## Office文档处理
 [PHPExcel](https://github.com/PHPOffice/PHPExcel): PHPExcel是由纯PHP语言编写的Excel文档处理类集合。当前稳定版本v1.8.1。
@@ -89,3 +90,5 @@ v
 
 ## 微信
 [EasyWeChat](https://github.com/overtrue/wechat/): EasyWeChat是一个开源的微信非官方SDK，支持标准Composer，基于Laravel框架开发，Github上Star数较多，当前版本是[v3.2.3](https://github.com/overtrue/wechat/archive/3.2.3.zip)。    
+
+[vbot](https://github.com/hanson/vbot/): 高度自定义的微信机器人，能够实现自动回复，消息转发，防撤回，留言统计等功能，Github上Star数较多，当前版本是[v1.0.21](https://github.com/HanSon/vbot/archive/v1.0.21.zip)。    
