@@ -20,15 +20,20 @@
 
 [DedeCMS](http://www.dedecms.com/products/dedecms/): 织梦内容管理系统是国内使用较多的PHP网站内容管理系统。采用XML名字空间风格核心模板：模板全部使用文件形式保存，对用户设计模板、网站升级转移均提供很大的便利，健壮的模板标签为站长DIY 自己的网站提供了强有力的支持。高效率标签缓存机制：允许对类同的标签进行缓存，在生成 HTML的时候，有利于提高系统反应速度，降低系统消耗的资源。模型与模块概念并存：在模型不能满足用户所有需求的情况下，DedeCMS推出一些互动的模块对系统进行补充，尽量满足用户的需求。众多的应用支持：为用户提供了各类网站建设的一体化解决方案，在本版本中，增加了分类、书库、黄页、圈子、问答等模块，补充一些用户的特殊要求。当前稳定版本是[v5.7 SP1](http://updatenew.dedecms.com/base-v57/package/DedeCMS-V5.7-UTF8-SP1-Full.tar.gz)。  
 
+[October](https://github.com/octobercms/october/): October是一个内容管理系统，一个致力于让开发工作流变得简单的web平台，基于Laravel开发。其诞生的原由是对现有系统的不满，觉得构建web站点已经变成一个非常复杂、令人费解的过程，这让开发人员很不满意，因此想要呈现事物的简单面，返璞归真。当前稳定版本是[v1.0.398](https://github.com/octobercms/october/archive/v1.0.398.zip)。  
+
+[PyroCMS](https://github.com/pyrocms/pyrocms/): 是一个MVC架构的PHP内容管理系统，容易上手，模块化，支持多主题和二次开发，在世界范围内被广泛使用。 3.0以前的版本基于CodeIgniter框架进行开发，3.0之后基于Laravel开发。当前稳定版本是[v3.3.0](https://github.com/pyrocms/pyrocms/archive/v3.3.0.zip)。  
+
+
 ## OA
 [小微OA](http://www.smeoa.com/): 小微OA是针对小公司量身定做的办公系统，主要功能：邮件，审批，信息，文档，任务，外勤微信定位，微信考勤，微信通知。
 设计理念：简单高效，无需培训轻松上手。提供定制开发。满足客户个性化需求。代码托管在[https://git.oschina.net/smeoa/xiaowei](https://git.oschina.net/smeoa/xiaowei)。  
 
-[信呼](http://www.xh829.com/): 由RockOA发展而来。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。代码托管在[https://git.oschina.net/rainrock/xinhu](https://git.oschina.net/rainrock/xinhu/)，当前版本为v1.2.2。    
+[信呼](http://www.xh829.com/): 由RockOA发展而来。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。代码托管在[https://git.oschina.net/rainrock/xinhu](https://git.oschina.net/rainrock/xinhu/)，当前版本为v1.2.3。    
 
-[然之](https://www.ranzhico.com/): 青岛易软天创网络科技有限公司开发的开源OA系统。当前版本为v3.7。  
+[然之](https://www.ranzhico.com/): 青岛易软天创网络科技有限公司开发的开源OA系统。当前版本为v4.0。  
 
-[IBOS](http://www.ibos.com.cn/): 一个基于Yii框架，快速、高效的协同办公管理系统。代码托管在[https://git.oschina.net/ibos/IBOS](http://git.oschina.net/ibos/IBOS)，当前版本为v3.8。
+[IBOS](http://www.ibos.com.cn/): 一个基于Yii框架，快速、高效的协同办公管理系统。代码托管在[https://git.oschina.net/ibos/IBOS](http://git.oschina.net/ibos/IBOS)，当前版本为v4.2。
 
 [Open Atrium](http://www.openatrium.com/): Open Atrium 是一套基于Drupal的内部网工具包，它预置了自定义面板、博客、手册、日历、任务分配系统、团队微博这六项功能，支持会员分组，每个分组都可以设置自己的界面和功能，比较适合做企业内联网和和团队内部协作系统也可以用来做项目管理系统、知识管理系统等。当前版本为v2.6.11。   
 
@@ -41,6 +46,10 @@
 [ECShop](http://www.ecshop.com/)：上海商派网络科技有限公司开发的开源电子商务系统，当前稳定版本是[v2.7.3_release1106](http://download.ecshop.com/2.7.3/ECShop_V2.7.3_UTF8_release1106.rar)。   
 
 [iWebShop](http://aircheng.com/)：济南爱程网络科技有限公司开发的开源电子商务系统，当前稳定版本是[v4.6](http://pan.baidu.com/s/1pLtUUoj)。   
+
+[Aimeos](https://github.com/Fixhub/Fixhub/): Aimeos是Laravel的高性能电子商务扩展包，提供了多个控制器用于多层过滤、产品列表、详情页展示、搜索、购物车和支付结算流程，以及对应的页面和路由，是一整套提供完整功能的工具集，当前版本是[v2017.01.2](https://github.com/aimeos/aimeos-laravel/archive/2017.01.2.zip)。   
+
+[Antvel](https://github.com/ant-vel/antVel/): Antvel是一个基于Laravel开发的开源电子商务项目，帮助创业者或大公司快速构建友好的电子商务网站，是一个功能齐全的平台，宗旨是以另外一种方式让用户获取最佳的电子商务体验！，当前版本是[v1.0.3](https://github.com/ant-vel/Antvel/archive/v1.0.3.zip)。   
 
 ## 企业门户
 [蝉知企业门户系统](http://www.chanzhi.org/)：青岛易软天创网络科技有限公司开发的企业建站系统，采用Z PUBLIC LICENSE协议发布，当前版本是v5.5。   
@@ -87,6 +96,9 @@
 
 ## 访问控制RBAC
 [Entrust](https://github.com/Zizaco/entrust/): Entrust是一个基于Laravel的角色管理开发包，当前稳定版本是[v1.7.0](https://github.com/Zizaco/entrust/archive/1.7.0.zip)。   
+
+## 管理面板
+[LaraAdmin](https://github.com/Fixhub/Fixhub/): LaraAdmin 是一款开源的后台管理面板/CMS，可作为Laravel应用的管理后台、数据管理工具或者CRM模板，拥有高级CRUD生成、模块管理器、工作流以及备份等很多功能。当前版本是[v1.0.40](https://github.com/dwijitsolutions/laraadmin/archive/1.0.40.zip)。   
 
 ## 微信
 [EasyWeChat](https://github.com/overtrue/wechat/): EasyWeChat是一个开源的微信非官方SDK，支持标准Composer，基于Laravel框架开发，Github上Star数较多，当前版本是[v3.2.3](https://github.com/overtrue/wechat/archive/3.2.3.zip)。    
