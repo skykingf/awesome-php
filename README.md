@@ -104,3 +104,8 @@
 [EasyWeChat](https://github.com/overtrue/wechat/): EasyWeChat是一个开源的微信非官方SDK，支持标准Composer，基于Laravel框架开发，Github上Star数较多，当前版本是[v3.2.3](https://github.com/overtrue/wechat/archive/3.2.3.zip)。    
 
 [vbot](https://github.com/hanson/vbot/): 高度自定义的微信机器人，能够实现自动回复，消息转发，防撤回，留言统计等功能，Github上Star数较多，当前版本是[v1.0.21](https://github.com/HanSon/vbot/archive/v1.0.21.zip)。    
+
+## Wiki
+[MediaWiki](https://github.com/wikimedia/mediawiki/): MediaWiki是由PHP开发的免费开源的维基程序，运行于PHP+mySQL环境。他是专为维基百科开发的wiki程序，目前除维基媒体基金会的项目外，也被广泛的应用在其他网站中。MediaWiki适合建立大型的百科网站,也有很多网站利用MediaWiki建立知识库系统，例如著名的Blog程序WordPress的官方网站的知识库体系就是基于MediaWiki搭建的。当前版本是[v1.28.0](https://github.com/wikimedia/mediawiki/archive/1.28.0.zip)。    
+
+[DokuWiki](https://github.com/splitbrain/dokuwiki/): DokuWiki是一个针对小公司文件需求而开发的Wiki引擎，用程序设计语言PHP开发，并以GPL 2发布。 DokuWiki基于文本存储，所以不需要数据库，其数据文件在Wiki系统外也是可读的。 DokuWiki的功能齐全，支持UTF-8，支持中文链接，能够单独编辑页面中的某个章节，能够自动生成目录，适合中小企业和个人使用，用作资料网站、归档、指南、读书笔记等。 DokuWiki的安装很简单，默认提供配置工具。当前版本是[v2016-06-26a](https://github.com/splitbrain/dokuwiki/archive/release_stable_2016-06-26a.zip)。    
