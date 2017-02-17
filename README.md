@@ -4,7 +4,7 @@
 ## Web框架
 [Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.4。   
 
-[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是v5.0.5。   
+[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是[v5.0.6](https://github.com/top-think/think/archive/v5.0.6.zip)。   
 
 ## ERP
 [Dolibarr](https://www.dolibarr.org/): Dolibarr是一个简单的跨平台的ERP和CRM系统，主要为中小型公司服务，可用来管理产品、库存、发票、订单、邮件列表等等，无需专业知识即可使用。开发时间较长，Github上Star和Fork数量都比较多，当前稳定版本v4.0.3，v5.0.0也发布了RC1版。   
@@ -58,6 +58,11 @@
 
 ## Bug管理
 [禅道](http://www.zentao.net/)：国内用的较多的中文Bug管理系统，是青岛易软天创网络科技有限公司开发的开源项目管理软件，采用Z PUBLIC LICENSE协议发布，当前版本是v8.3.1。  
+
+## 项目管理
+[Wekan](https://github.com/wekan/wekan/)：Trello kanban的开源实现，Github上Star数量众多，当前版本是[v0.10.1](https://github.com/wekan/wekan/archive/v0.10.1.zip)。  
+
+[Kanboard](https://github.com/kanboard/kanboard/)：Kanban项目管理的一个简单工具，界面朴素，Github上Star数量较多，当前版本是[v1.0.39](https://github.com/kanboard/kanboard/archive/v1.0.39.zip)。  
 
 ## 私有存储
 [大桌子办公](http://www.dzzoffice.com/)：国内的私有存储系统，适合做企业的文件管理用。Leyun Internet Technology(Shanghai) Co.,Ltd 开发，当前版本是v1.2.5.2。  
