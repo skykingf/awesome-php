@@ -29,9 +29,9 @@
 [小微OA](http://www.smeoa.com/): 小微OA是针对小公司量身定做的办公系统，主要功能：邮件，审批，信息，文档，任务，外勤微信定位，微信考勤，微信通知。
 设计理念：简单高效，无需培训轻松上手。提供定制开发。满足客户个性化需求。代码托管在[https://git.oschina.net/smeoa/xiaowei](https://git.oschina.net/smeoa/xiaowei)。  
 
-[信呼](http://www.xh829.com/): 由RockOA发展而来。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。代码托管在[https://git.oschina.net/rainrock/xinhu](https://git.oschina.net/rainrock/xinhu/)，当前版本为v1.2.3。    
+[信呼](http://www.xh829.com/): 由RockOA发展而来。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。代码托管在[https://git.oschina.net/rainrock/xinhu](https://git.oschina.net/rainrock/xinhu/)，当前版本为v1.2.4。    
 
-[然之](https://www.ranzhico.com/): 青岛易软天创网络科技有限公司开发的开源OA系统。当前版本为v4.0。  
+[然之](https://www.ranzhico.com/): 青岛易软天创网络科技有限公司开发的开源OA系统。当前版本为v4.1。  
 
 [IBOS](http://www.ibos.com.cn/): 一个基于Yii框架，快速、高效的协同办公管理系统。代码托管在[https://git.oschina.net/ibos/IBOS](http://git.oschina.net/ibos/IBOS)，当前版本为v4.2。
 
@@ -67,7 +67,9 @@
 ## 私有存储
 [大桌子办公](http://www.dzzoffice.com/)：国内的私有存储系统，适合做企业的文件管理用。Leyun Internet Technology(Shanghai) Co.,Ltd 开发，当前版本是v1.2.5.2。  
 
-[ownCloud](https://owncloud.org/)：比较完善的云存储系统，接近于百度网盘的效果了，Server端的当前版本是v9.1.2。
+[ownCloud](https://owncloud.org/)：比较完善的云存储系统，接近于百度网盘的效果了，Server端的当前版本是v9.1.2。   
+
+[Nextcloud](https://nextcloud.com/)：基于ownCloud衍生的在线云存储系统，仿Dropbox的开源实现，不仅提供了Server端的源码，还提供了Android端和Windows Universal App的源码，Server端的当前版本是[v11.0.1](https://github.com/nextcloud/server/archive/v11.0.1.zip)。   
 
 ## 源码加密
 [PHP Beast](https://github.com/liexusong/php-beast/)：列旭松开发的源码加密扩展，Github上Star数量较多。    
