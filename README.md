@@ -129,5 +129,8 @@
 
 [Workflower](https://github.com/phpmentors-jp/workflower): Workflower是一个PHP开发的BPMN 2.0工作流引擎。当前版本是[v1.3.0](https://github.com/phpmentors-jp/workflower/archive/v1.3.0.zip)。  
 
-## 社交网络软件
+## 社交网络软件    
 [OpenSNS](http://www.opensns.cn/): OpenSNS是一款国人开发的开源社交软件。使用OpenSNS可以快速搭建一个类似新浪微博一样的功能强大的社交网站，也可以在微信中被访问，提供云市场进行功能扩展。当前版本是[v3.3.5](http://upload.opensns.cn/Uploads_Download_2017-03-14_58c739297d659.zip)。  
+
+## Web file manager / WebIDE   
+[KodExplorer](http://www.kalcaddle.com/): KodExplorer是一款国人开发的开源文件管理和WebIDE。当前版本是[v3.4.1](https://github.com/kalcaddle/KodExplorer/archive/3.41.zip)。   
