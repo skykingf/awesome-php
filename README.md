@@ -118,3 +118,16 @@
 [MediaWiki](https://github.com/wikimedia/mediawiki/): MediaWiki是由PHP开发的免费开源的维基程序，运行于PHP+mySQL环境。他是专为维基百科开发的wiki程序，目前除维基媒体基金会的项目外，也被广泛的应用在其他网站中。MediaWiki适合建立大型的百科网站,也有很多网站利用MediaWiki建立知识库系统，例如著名的Blog程序WordPress的官方网站的知识库体系就是基于MediaWiki搭建的。当前版本是[v1.28.0](https://github.com/wikimedia/mediawiki/archive/1.28.0.zip)。    
 
 [DokuWiki](https://github.com/splitbrain/dokuwiki/): DokuWiki是一个针对小公司文件需求而开发的Wiki引擎，用程序设计语言PHP开发，并以GPL 2发布。 DokuWiki基于文本存储，所以不需要数据库，其数据文件在Wiki系统外也是可读的。 DokuWiki的功能齐全，支持UTF-8，支持中文链接，能够单独编辑页面中的某个章节，能够自动生成目录，适合中小企业和个人使用，用作资料网站、归档、指南、读书笔记等。 DokuWiki的安装很简单，默认提供配置工具。当前版本是[v2016-06-26a](https://github.com/splitbrain/dokuwiki/archive/release_stable_2016-06-26a.zip)。    
+
+## 短链接
+[YOURLS](http://yourls.org/): YOURLS是一个能够生成URL短链接的PHP脚本工具，Github上Star数较多。当前版本是[v1.7.1](https://github.com/YOURLS/YOURLS/archive/1.7.1.zip)。  
+
+[Polr](https://project.polr.me/): Polr是一个快速、现代、健壮的开源URL短链接生成工具。当前版本是[v2.1.1](https://github.com/cydrobolt/polr/archive/2.1.1.zip)。  
+
+## 业务流程建模 BPM Workflow
+[ProcessMaker](http://www.processmaker.com/): ProcessMaker是一个开源的工作流管理软件套件，包括自动生成工作流、设计表单、创建文档、分配用户和角色和创建路由规则。当前版本是[v2.5.2](https://github.com/colosa/processmaker/archive/2.5.2.zip)，最后一次更新是2014.5.9。  
+
+[Workflower](https://github.com/phpmentors-jp/workflower): Workflower是一个PHP开发的BPMN 2.0工作流引擎。当前版本是[v1.3.0](https://github.com/phpmentors-jp/workflower/archive/v1.3.0.zip)。  
+
+## 社交网络软件
+[OpenSNS](http://www.opensns.cn/): OpenSNS是一款国人开发的开源社交软件。使用OpenSNS可以快速搭建一个类似新浪微博一样的功能强大的社交网站，也可以在微信中被访问，提供云市场进行功能扩展。当前版本是[v3.3.5](http://upload.opensns.cn/Uploads_Download_2017-03-14_58c739297d659.zip)。  
