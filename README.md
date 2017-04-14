@@ -18,7 +18,7 @@
 
 [Drupal](https://www.drupal.org/): Drupal是一个开源的内容管理系统(CMS)。主要用于构造提供多种功能和服务的动态网站，这些功能包括用户管理(UserAdministration)、发布工作流 (Publishing Workflow)、讨论、新闻聚合(NewsAggregation)、元数据(Metadata)操作和用于内容共享的XML发布。Drupal有一个优秀的模块化结构，提供了许多模块，包括短消息、个性化书签、网站管理、Blog、日记、电子商务、电子出版、留言簿、Job、网上电影院、论坛、投票 等模块。并且Drupal模块的下载、安装、定制非常方便。当前稳定版本v8.2.3。  
 
-[DedeCMS](http://www.dedecms.com/products/dedecms/): 织梦内容管理系统是国内使用较多的PHP网站内容管理系统。采用XML名字空间风格核心模板：模板全部使用文件形式保存，对用户设计模板、网站升级转移均提供很大的便利，健壮的模板标签为站长DIY 自己的网站提供了强有力的支持。高效率标签缓存机制：允许对类同的标签进行缓存，在生成 HTML的时候，有利于提高系统反应速度，降低系统消耗的资源。模型与模块概念并存：在模型不能满足用户所有需求的情况下，DedeCMS推出一些互动的模块对系统进行补充，尽量满足用户的需求。众多的应用支持：为用户提供了各类网站建设的一体化解决方案，在本版本中，增加了分类、书库、黄页、圈子、问答等模块，补充一些用户的特殊要求。当前稳定版本是[v5.7 SP1](http://updatenew.dedecms.com/base-v57/package/DedeCMS-V5.7-UTF8-SP1-Full.tar.gz)。  
+[DedeCMS](http://www.dedecms.com/products/dedecms/): 织梦内容管理系统是国内使用较多的PHP网站内容管理系统。采用XML名字空间风格核心模板：模板全部使用文件形式保存，对用户设计模板、网站升级转移均提供很大的便利，健壮的模板标签为站长DIY 自己的网站提供了强有力的支持。高效率标签缓存机制：允许对类同的标签进行缓存，在生成 HTML的时候，有利于提高系统反应速度，降低系统消耗的资源。模型与模块概念并存：在模型不能满足用户所有需求的情况下，DedeCMS推出一些互动的模块对系统进行补充，尽量满足用户的需求。众多的应用支持：为用户提供了各类网站建设的一体化解决方案，在本版本中，增加了分类、书库、黄页、圈子、问答等模块，补充一些用户的特殊要求。当前稳定版本是[v5.7 SP2](http://updatenew.dedecms.com/base-v57/package/DedeCMS-V5.7-UTF8-SP2.tar.gz)。  
 
 [October](https://github.com/octobercms/october/): October是一个内容管理系统，一个致力于让开发工作流变得简单的web平台，基于Laravel开发。其诞生的原由是对现有系统的不满，觉得构建web站点已经变成一个非常复杂、令人费解的过程，这让开发人员很不满意，因此想要呈现事物的简单面，返璞归真。当前稳定版本是[v1.0.398](https://github.com/octobercms/october/archive/v1.0.398.zip)。  
 
