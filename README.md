@@ -80,11 +80,6 @@
 
 [PHP Screw](https://sourceforge.net/projects/php-screw/)：一个比较老的源码加密扩展，最新版本是v1.5。
 
-## 微信开发
-[微擎](http://www.we7.cc/)：宿州微擎网络科技开发的一款免费开源的微信公众平台管理系统，良好的开发框架、文档，轻松扩展、定制私有功能，最新版本是v0.8。   
-
-[微赞](http://www.012wz.com/)：深圳零壹贰科技有限公司所研发升级的微信公众平台系统程序，版本更新较快，最新版本是v39.8。
-
 ## 社区论坛
 [Discuz! X](http://www.discuz.net/)：北京康盛新创科技有限责任公司开发的一款开源社区和论坛系统，国内用户量较大，最新版本是[v3.3](http://download.comsenz.com/DiscuzX/3.3/Discuz_X3.3_SC_UTF8.zip)。
 
@@ -112,9 +107,15 @@
 [LaraAdmin](https://github.com/Fixhub/Fixhub/): LaraAdmin 是一款开源的后台管理面板/CMS，可作为Laravel应用的管理后台、数据管理工具或者CRM模板，拥有高级CRUD生成、模块管理器、工作流以及备份等很多功能。当前版本是[v1.0.40](https://github.com/dwijitsolutions/laraadmin/archive/1.0.40.zip)。   
 
 ## 微信
+[微擎](http://www.we7.cc/)：宿州微擎网络科技开发的一款免费开源的微信公众平台管理系统，良好的开发框架、文档，轻松扩展、定制私有功能，最新版本是v0.8。   
+
+[微赞](http://www.012wz.com/)：深圳零壹贰科技有限公司所研发升级的微信公众平台系统程序，版本更新较快，最新版本是v39.8。
+
 [EasyWeChat](https://github.com/overtrue/wechat/): EasyWeChat是一个开源的微信非官方SDK，支持标准Composer，基于Laravel框架开发，Github上Star数较多，当前版本是[v3.2.3](https://github.com/overtrue/wechat/archive/3.2.3.zip)。    
 
 [vbot](https://github.com/hanson/vbot/): 高度自定义的微信机器人，能够实现自动回复，消息转发，防撤回，留言统计等功能，Github上Star数较多，当前版本是[v1.0.21](https://github.com/HanSon/vbot/archive/v1.0.21.zip)。    
+
+[SOPHP](http://www.sophp.cn/)：另一个开源微信框架，基于weiphp框架开发，最新版本是v4.5。    
 
 ## Wiki
 [MediaWiki](https://github.com/wikimedia/mediawiki/): MediaWiki是由PHP开发的免费开源的维基程序，运行于PHP+mySQL环境。他是专为维基百科开发的wiki程序，目前除维基媒体基金会的项目外，也被广泛的应用在其他网站中。MediaWiki适合建立大型的百科网站,也有很多网站利用MediaWiki建立知识库系统，例如著名的Blog程序WordPress的官方网站的知识库体系就是基于MediaWiki搭建的。当前版本是[v1.28.0](https://github.com/wikimedia/mediawiki/archive/1.28.0.zip)。    
