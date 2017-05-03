@@ -22,7 +22,9 @@
 
 [October](https://github.com/octobercms/october/): October是一个内容管理系统，一个致力于让开发工作流变得简单的web平台，基于Laravel开发。其诞生的原由是对现有系统的不满，觉得构建web站点已经变成一个非常复杂、令人费解的过程，这让开发人员很不满意，因此想要呈现事物的简单面，返璞归真。当前稳定版本是[v1.0.398](https://github.com/octobercms/october/archive/v1.0.398.zip)。  
 
-[PyroCMS](https://github.com/pyrocms/pyrocms/): 是一个MVC架构的PHP内容管理系统，容易上手，模块化，支持多主题和二次开发，在世界范围内被广泛使用。 3.0以前的版本基于CodeIgniter框架进行开发，3.0之后基于Laravel开发。当前稳定版本是[v3.3.0](https://github.com/pyrocms/pyrocms/archive/v3.3.0.zip)。  
+[PyroCMS](https://github.com/pyrocms/pyrocms/): PyroCMS是一个MVC架构的PHP内容管理系统，容易上手，模块化，支持多主题和二次开发，在世界范围内被广泛使用。 3.0以前的版本基于CodeIgniter框架进行开发，3.0之后基于Laravel开发。当前稳定版本是[v3.3.0](https://github.com/pyrocms/pyrocms/archive/v3.3.0.zip)。  
+
+[SchoolCMS](http://www.schoolcms.org/): SchoolCMS是一个基于ThinkPHP框架开发的开源学校教务管理系统，代码遵循Apache2开源协议，官方应用仓库拥有大量的第三方的插件和应用模块、模板主题。 当前稳定版本是[v2.3](https://pan.baidu.com/s/1hs7jsdY)。  
 
 
 ## OA
@@ -49,9 +51,11 @@
 
 [Aimeos](https://github.com/Fixhub/Fixhub/): Aimeos是Laravel的高性能电子商务扩展包，提供了多个控制器用于多层过滤、产品列表、详情页展示、搜索、购物车和支付结算流程，以及对应的页面和路由，是一整套提供完整功能的工具集，当前版本是[v2017.01.2](https://github.com/aimeos/aimeos-laravel/archive/2017.01.2.zip)。   
 
-[Antvel](https://github.com/ant-vel/antVel/): Antvel是一个基于Laravel开发的开源电子商务项目，帮助创业者或大公司快速构建友好的电子商务网站，是一个功能齐全的平台，宗旨是以另外一种方式让用户获取最佳的电子商务体验！，当前版本是[v1.0.3](https://github.com/ant-vel/Antvel/archive/v1.0.3.zip)。   
+[Antvel](https://github.com/ant-vel/antVel/): Antvel是一个基于Laravel开发的开源电子商务项目，帮助创业者或大公司快速构建友好的电子商务网站，是一个功能齐全的平台，宗旨是以另外一种方式让用户获取最佳的电子商务体验，当前版本是[v1.0.3](https://github.com/ant-vel/Antvel/archive/v1.0.3.zip)。   
 
 [ECJia](https://ecjia.com/)：ECJia到家是上海商创网络科技有限公司研发的针对O2O业务的移动电商系统，可广泛部署于微信、浏览器及其他应用上。采用的LBS定位通过手机的GPS，获取移动终端用户的位置信息为你精准的推荐附近商家的位置信息;平台和商家后台分离管理模式：平台后台，由平台方管理，对平台各系统和功能模块统一设置管理，保证平台完美运行；商家后台，专为入驻商家设计，独立于平台的后台系统，实现对店铺进行全方位的管理。当前稳定版本是v1.4.1。   
+
+[云EC](http://www.yunec.cn/): 云EC是一个新兴的B2C开源系统，C采用B2C运营模式，可以商城自营，满足商城在各个阶段和层次的需求，可以轻松支持多个客户端，例如PC，手机浏览器，微信，App，平板等。当前版本是[v1.1.3](http://www.yunec.cn/download.html?do=file)。   
 
 ## 企业门户
 [蝉知企业门户系统](http://www.chanzhi.org/)：青岛易软天创网络科技有限公司开发的企业建站系统，采用Z PUBLIC LICENSE协议发布，当前版本是v5.5。   
