@@ -2,7 +2,7 @@
 汇集最有用的PHP资源
 
 ## Web框架
-[Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.4。   
+[Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.5。   
 
 [ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是[v5.0.7](https://github.com/top-think/think/archive/v5.0.7.zip)。   
 
@@ -24,7 +24,7 @@
 
 [PyroCMS](https://github.com/pyrocms/pyrocms/): PyroCMS是一个MVC架构的PHP内容管理系统，容易上手，模块化，支持多主题和二次开发，在世界范围内被广泛使用。 3.0以前的版本基于CodeIgniter框架进行开发，3.0之后基于Laravel开发。当前稳定版本是[v3.3.0](https://github.com/pyrocms/pyrocms/archive/v3.3.0.zip)。  
 
-[SchoolCMS](http://www.schoolcms.org/): SchoolCMS是一个基于ThinkPHP框架开发的开源学校教务管理系统，代码遵循Apache2开源协议，官方应用仓库拥有大量的第三方的插件和应用模块、模板主题。 当前稳定版本是[v2.3](https://pan.baidu.com/s/1hs7jsdY)。  
+[SchoolCMS](http://www.schoolcms.org/): SchoolCMS是一个基于ThinkPHP框架开发的开源学校教务管理系统，代码遵循Apache2开源协议，官方应用仓库拥有大量的第三方的插件和应用模块、模板主题。 当前稳定版本是[v2.3](https://pan.baidu.com/s/1hs7jsdY)。   
 
 
 ## OA
@@ -88,7 +88,7 @@
 [Discuz! X](http://www.discuz.net/)：北京康盛新创科技有限责任公司开发的一款开源社区和论坛系统，国内用户量较大，最新版本是[v3.3](http://download.comsenz.com/DiscuzX/3.3/Discuz_X3.3_SC_UTF8.zip)。
 
 ## Web统计
-[Piwik](https://github.com/piwik/piwik): PHP和MySQL的开放源代码的Web统计软件，提供指定网站的实用统计报告，如网页浏览人数, 访问最多的页面, 搜索引擎关键词等。拥有众多不同功能的插件，可以添加新的功能或是移除不需要的功能，可以非常容易的插入统计图表到博客或是网站后台的控制面板中。当前稳定版本[v3.0.1](https://builds.piwik.org/piwik.zip)。  
+[Piwik](https://github.com/piwik/piwik): PHP和MySQL的开放源代码的Web统计软件，提供指定网站的实用统计报告，如网页浏览人数, 访问最多的页面, 搜索引擎关键词等。拥有众多不同功能的插件，可以添加新的功能或是移除不需要的功能，可以非常容易的插入统计图表到博客或是网站后台的控制面板中。当前稳定版本[v3.2.0](https://builds.piwik.org/piwik.zip)。  
 
 ## Office文档处理
 [PHPExcel](https://github.com/PHPOffice/PHPExcel): PHPExcel是由纯PHP语言编写的Excel文档处理类集合。当前稳定版本v1.8.1。
