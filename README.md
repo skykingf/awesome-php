@@ -149,3 +149,6 @@
 
 ## Web file manager / WebIDE   
 [KodExplorer](http://www.kalcaddle.com/): KodExplorer是一款国人开发的开源文件管理和WebIDE。当前版本是[v3.4.1](https://github.com/kalcaddle/KodExplorer/archive/3.41.zip)。   
+
+## 后台管理
+[Gentelella](https://github.com/puikinsh/gentelella): Gentelella是一款免费的Bootstrap 3 管理模板，Github上Star数量较多。当前版本是[v1.4.0](https://github.com/puikinsh/gentelella/archive/1.4.0.zip)。   
