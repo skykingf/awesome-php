@@ -2,12 +2,12 @@
 汇集最有用的PHP资源
 
 ## Web框架
-[Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.4。   
+[Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.5。   
 
-[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新版本是[v5.0.7](https://github.com/top-think/think/archive/v5.0.7.zip)。   
+[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新稳定版本是[v5.0.12](https://github.com/top-think/think/archive/v5.0.12.zip)。   
 
 ## ERP
-[Dolibarr](https://www.dolibarr.org/): Dolibarr是一个简单的跨平台的ERP和CRM系统，主要为中小型公司服务，可用来管理产品、库存、发票、订单、邮件列表等等，无需专业知识即可使用。开发时间较长，Github上Star和Fork数量都比较多，当前稳定版本v4.0.3，v5.0.0也发布了RC1版。   
+[Dolibarr](https://www.dolibarr.org/): Dolibarr是一个简单的跨平台的ERP和CRM系统，主要为中小型公司服务，可用来管理产品、库存、发票、订单、邮件列表等等，无需专业知识即可使用。开发时间较长，Github上Star和Fork数量都比较多，当前稳定版本[v6.0.3](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/6.0.3/dolibarr-6.0.3.zip/download)。     
 
 [inoERP](http://inoideas.org/): inoERP是一款新兴的适合中小企业使用的开源ERP系统，功能与Oracle ESB和SAP非常类似，包含ERP常见的所有功能。“动态式拉动”为核心设计理念 ，解决需求和供应链频繁变动而造成的库存不准确问题。Github上Star和Fork数量都比较多，当前稳定版本v0.5.1。   
 
@@ -25,6 +25,8 @@
 [PyroCMS](https://github.com/pyrocms/pyrocms/): PyroCMS是一个MVC架构的PHP内容管理系统，容易上手，模块化，支持多主题和二次开发，在世界范围内被广泛使用。 3.0以前的版本基于CodeIgniter框架进行开发，3.0之后基于Laravel开发。当前稳定版本是[v3.3.0](https://github.com/pyrocms/pyrocms/archive/v3.3.0.zip)。  
 
 [SchoolCMS](http://www.schoolcms.org/): SchoolCMS是一个基于ThinkPHP框架开发的开源学校教务管理系统，代码遵循Apache2开源协议，官方应用仓库拥有大量的第三方的插件和应用模块、模板主题。 当前稳定版本是[v2.3](https://pan.baidu.com/s/1hs7jsdY)。   
+
+[MIPCMS](http://www.mipcms.com/): MIPCMS是一个基于ThinkPHP框架开发的免费开源的CMS建站系统，移动网站使用MIP标准的网页，能快速让你的网站被百度收录MIPCMS所有页面都是经过SEO优化后的，站长可以在短时间内搭建一整套带有PC版和移动版的百度MIP网站,无需再次进行SEO优化。MIP是百度提出的页面加速解决方案。对于MIP标准的网页，百度搜索引擎将优先收录并且SEO优化提升，而你的站点将拥有更大的用户量。当前稳定版本是[v2.1.2](http://www.mipcms.cn/mipcms-2.1.2.zip)。   
 
 
 ## OA
@@ -55,7 +57,11 @@
 
 [ECJia](https://ecjia.com/)：ECJia到家是上海商创网络科技有限公司研发的针对O2O业务的移动电商系统，可广泛部署于微信、浏览器及其他应用上。采用的LBS定位通过手机的GPS，获取移动终端用户的位置信息为你精准的推荐附近商家的位置信息;平台和商家后台分离管理模式：平台后台，由平台方管理，对平台各系统和功能模块统一设置管理，保证平台完美运行；商家后台，专为入驻商家设计，独立于平台的后台系统，实现对店铺进行全方位的管理。当前稳定版本是v1.4.1。   
 
-[云EC](http://www.yunec.cn/): 云EC是一个新兴的B2C开源系统，C采用B2C运营模式，可以商城自营，满足商城在各个阶段和层次的需求，可以轻松支持多个客户端，例如PC，手机浏览器，微信，App，平板等。当前版本是[v1.1.3](http://www.yunec.cn/download.html?do=file)。   
+[云EC](http://www.yunec.cn/): 云EC是一个新兴的B2C开源系统，采用B2C运营模式，可以商城自营，满足商城在各个阶段和层次的需求，可以轻松支持多个客户端，例如PC，手机浏览器，微信，App，平板等。当前版本是[v1.1.3](http://www.yunec.cn/download.html?do=file)。   
+
+[WSTShop](http://www.wstshop.net/): WSTShop是一个基于ThinkPHP框架开发的电子商务系统，面向API开发，支持PC、手机WAP、微信、App端。当前版本是[v v1.5.1](http://www.shangtao.net/external/static/uploads/downloads/2017-09/59cf9dc18bfb0.zip)。  
+
+[Niushop](http://www.niushop.com.cn/): Niushop是一个基于ThinkPHP框架开发的免费开源的集"B2B2C多用户商城 + 微信多功能分销 + 电商平台集中运营 + iOS 、Android多平台客户端"电商系统，采用ThinkPHP5 + MySQL 开发语言，采用完全面向对象的技术架构体设计开发。当前稳定版本是[v1.19](http://ns-download.niushop.com.cn/niushop_b2c_release.zip)。   
 
 ## 企业门户
 [蝉知企业门户系统](http://www.chanzhi.org/)：青岛易软天创网络科技有限公司开发的企业建站系统，采用Z PUBLIC LICENSE协议发布，当前版本是v5.5。   
@@ -85,10 +91,12 @@
 [PHP Screw](https://sourceforge.net/projects/php-screw/)：一个比较老的源码加密扩展，最新版本是v1.5。
 
 ## 社区论坛
-[Discuz! X](http://www.discuz.net/)：北京康盛新创科技有限责任公司开发的一款开源社区和论坛系统，国内用户量较大，最新版本是[v3.3](http://download.comsenz.com/DiscuzX/3.3/Discuz_X3.3_SC_UTF8.zip)。
+[Discuz! X](http://www.discuz.net/)：北京康盛新创科技有限责任公司开发的一款开源社区和论坛系统，国内用户量较大，最新版本是[v3.3](http://download.comsenz.com/DiscuzX/3.3/Discuz_X3.3_SC_UTF8.zip)。   
+
+[MyBB](https://mybb.com/)：MyBB是一个自由开源、直观、可扩展且功能强大的论坛系统，最新版本是[v1.8.13](https://resources.mybb.com/downloads/mybb_1813.zip)。   
 
 ## Web统计
-[Piwik](https://github.com/piwik/piwik): PHP和MySQL的开放源代码的Web统计软件，提供指定网站的实用统计报告，如网页浏览人数, 访问最多的页面, 搜索引擎关键词等。拥有众多不同功能的插件，可以添加新的功能或是移除不需要的功能，可以非常容易的插入统计图表到博客或是网站后台的控制面板中。当前稳定版本[v3.0.1](https://builds.piwik.org/piwik.zip)。  
+[Piwik](https://github.com/piwik/piwik): PHP和MySQL的开放源代码的Web统计软件，提供指定网站的实用统计报告，如网页浏览人数, 访问最多的页面, 搜索引擎关键词等。拥有众多不同功能的插件，可以添加新的功能或是移除不需要的功能，可以非常容易的插入统计图表到博客或是网站后台的控制面板中。当前稳定版本[v3.2.0](https://builds.piwik.org/piwik.zip)。  
 
 ## Office文档处理
 [PHPExcel](https://github.com/PHPOffice/PHPExcel): PHPExcel是由纯PHP语言编写的Excel文档处理类集合。当前稳定版本v1.8.1。
@@ -141,3 +149,6 @@
 
 ## Web file manager / WebIDE   
 [KodExplorer](http://www.kalcaddle.com/): KodExplorer是一款国人开发的开源文件管理和WebIDE。当前版本是[v3.4.1](https://github.com/kalcaddle/KodExplorer/archive/3.41.zip)。   
+
+## 后台管理
+[Gentelella](https://github.com/puikinsh/gentelella): Gentelella是一款免费的Bootstrap 3 管理模板，Github上Star数量较多。当前版本是[v1.4.0](https://github.com/puikinsh/gentelella/archive/1.4.0.zip)。   
