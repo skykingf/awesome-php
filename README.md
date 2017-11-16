@@ -6,6 +6,9 @@
 
 [ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新稳定版本是[v5.0.12](https://github.com/top-think/think/archive/v5.0.12.zip)。   
 
+## 编程规范
+[Laravel项目开发规范](https://fsdhub.com/books/laravel-specification): 一套严格的团队开发规范，是 优帆远扬团队内部Laravel工程师践行的开发规范。   
+
 ## ERP
 [Dolibarr](https://www.dolibarr.org/): Dolibarr是一个简单的跨平台的ERP和CRM系统，主要为中小型公司服务，可用来管理产品、库存、发票、订单、邮件列表等等，无需专业知识即可使用。开发时间较长，Github上Star和Fork数量都比较多，当前稳定版本[v6.0.3](https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/6.0.3/dolibarr-6.0.3.zip/download)。     
 
