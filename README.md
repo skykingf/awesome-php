@@ -24,7 +24,7 @@
 
 [PyroCMS](https://github.com/pyrocms/pyrocms/): PyroCMS是一个MVC架构的PHP内容管理系统，容易上手，模块化，支持多主题和二次开发，在世界范围内被广泛使用。 3.0以前的版本基于CodeIgniter框架进行开发，3.0之后基于Laravel开发。当前稳定版本是[v3.3.0](https://github.com/pyrocms/pyrocms/archive/v3.3.0.zip)。  
 
-[SchoolCMS](http://www.schoolcms.org/): SchoolCMS是一个基于ThinkPHP框架开发的开源学校教务管理系统，代码遵循Apache2开源协议，官方应用仓库拥有大量的第三方的插件和应用模块、模板主题。 当前稳定版本是[v2.3](https://pan.baidu.com/s/1hs7jsdY)。  
+[SchoolCMS](http://www.schoolcms.org/): SchoolCMS是一个基于ThinkPHP框架开发的开源学校教务管理系统，代码遵循Apache2开源协议，官方应用仓库拥有大量的第三方的插件和应用模块、模板主题。 当前稳定版本是[v2.3](https://pan.baidu.com/s/1hs7jsdY)。   
 
 
 ## OA
