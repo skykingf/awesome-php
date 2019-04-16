@@ -2,9 +2,9 @@
 汇集最有用的PHP资源
 
 ## Web框架
-[Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，当前稳定版本v5.5。   
+[Laravel](https://github.com/laravel/laravel): 超级火的Web开发框架，主要特点是原生RESTful设计，开发方式现代化，当前稳定版本v5.8。   
 
-[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，当前最新稳定版本是[v5.0.12](https://github.com/top-think/think/archive/v5.0.12.zip)。   
+[ThinkPHP](http://www.thinkphp.cn/): 国内用的较多的PHP框架，v3.x时期口碑较好，v5.x版参考了Laravel的设计理念，当前最新稳定版本是[v5.0.24](https://github.com/top-think/think/archive/v5.0.24.zip)。   
 
 ## 编程规范
 [Laravel项目开发规范](https://fsdhub.com/books/laravel-specification): 一套严格的团队开发规范，是 优帆远扬团队内部Laravel工程师践行的开发规范。   
@@ -36,7 +36,7 @@
 [小微OA](http://www.smeoa.com/): 小微OA是针对小公司量身定做的办公系统，主要功能：邮件，审批，信息，文档，任务，外勤微信定位，微信考勤，微信通知。
 设计理念：简单高效，无需培训轻松上手。提供定制开发。满足客户个性化需求。代码托管在[https://git.oschina.net/smeoa/xiaowei](https://git.oschina.net/smeoa/xiaowei)。  
 
-[信呼](http://www.xh829.com/): 由RockOA发展而来。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。代码托管在[https://git.oschina.net/rainrock/xinhu](https://git.oschina.net/rainrock/xinhu/)，当前版本为v1.3.0。    
+[信呼](http://www.rockoa.com/): 由RockOA发展而来。为企业构建一个基于互联网的企业管理平台, 对企业中沟通与互动，协作与管理的全方位整合，并且免费开源系统，二次开发更快捷，REIM即时推送审批，掌上APP手机办公。代码托管在[https://gitee.com/rainrock/xinhu](https://gitee.com/rainrock/xinhu)，当前版本为v1.8.9。    
 
 [然之](https://www.ranzhico.com/): 青岛易软天创网络科技有限公司开发的开源OA系统。当前版本为v4.1。  
 
@@ -72,7 +72,7 @@
 [OurPHP](http://www.ourphp.net/)：哈尔滨伟成科技有限公司开发的企业建站系统和电子商务系统，当前版本是v1.6.1。    
 
 ## Bug管理
-[禅道](http://www.zentao.net/)：国内用的较多的中文Bug管理系统，是青岛易软天创网络科技有限公司开发的开源项目管理软件，采用Z PUBLIC LICENSE协议发布，当前版本是v8.3.1。  
+[禅道](http://www.zentao.net/)：国内用的较多的中文Bug管理系统，是青岛易软天创网络科技有限公司开发的开源项目管理软件，采用Z PUBLIC LICENSE协议发布，当前版本是v11.4.1。  
 
 ## 项目管理
 [Wekan](https://github.com/wekan/wekan/)：Trello kanban的开源实现，Github上Star数量众多，当前版本是[v0.10.1](https://github.com/wekan/wekan/archive/v0.10.1.zip)。  
@@ -89,7 +89,7 @@
 [Nextcloud](https://nextcloud.com/)：基于ownCloud衍生的在线云存储系统，仿Dropbox的开源实现，不仅提供了Server端的源码，还提供了Android端和Windows Universal App的源码，Server端的当前版本是[v11.0.1](https://github.com/nextcloud/server/archive/v11.0.1.zip)。   
 
 ## 源码加密
-[PHP Beast](https://github.com/liexusong/php-beast/)：列旭松开发的源码加密扩展，Github上Star数量较多。    
+[PHP Beast](https://github.com/liexusong/php-beast/)：国内知名PHP大师列旭松开发的源码加密扩展，Github上Star数量较多。    
 
 [PHP Screw](https://sourceforge.net/projects/php-screw/)：一个比较老的源码加密扩展，最新版本是v1.5。
 
@@ -99,7 +99,7 @@
 [MyBB](https://mybb.com/)：MyBB是一个自由开源、直观、可扩展且功能强大的论坛系统，最新版本是[v1.8.13](https://resources.mybb.com/downloads/mybb_1813.zip)。   
 
 ## Web统计
-[Piwik](https://github.com/piwik/piwik): PHP和MySQL的开放源代码的Web统计软件，提供指定网站的实用统计报告，如网页浏览人数, 访问最多的页面, 搜索引擎关键词等。拥有众多不同功能的插件，可以添加新的功能或是移除不需要的功能，可以非常容易的插入统计图表到博客或是网站后台的控制面板中。当前稳定版本[v3.2.0](https://builds.piwik.org/piwik.zip)。  
+[Matomo](https://github.com/matomo-org/matomo): 前身是著名的Web统计系统Piwik，后改名为Matomo，PHP和MySQL的开放源代码的Web统计软件，提供指定网站的实用统计报告，如网页浏览人数, 访问最多的页面, 搜索引擎关键词等。拥有众多不同功能的插件，可以添加新的功能或是移除不需要的功能，可以非常容易的插入统计图表到博客或是网站后台的控制面板中。当前稳定版本[v3.9.1](https://builds.piwik.org/piwik.zip)。  
 
 ## Office文档处理
 [PHPExcel](https://github.com/PHPOffice/PHPExcel): PHPExcel是由纯PHP语言编写的Excel文档处理类集合。当前稳定版本v1.8.1。
