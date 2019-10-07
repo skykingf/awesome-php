@@ -31,6 +31,8 @@
 
 [MIPCMS](http://www.mipcms.com/): MIPCMS是一个基于ThinkPHP框架开发的免费开源的CMS建站系统，移动网站使用MIP标准的网页，能快速让你的网站被百度收录MIPCMS所有页面都是经过SEO优化后的，站长可以在短时间内搭建一整套带有PC版和移动版的百度MIP网站,无需再次进行SEO优化。MIP是百度提出的页面加速解决方案。对于MIP标准的网页，百度搜索引擎将优先收录并且SEO优化提升，而你的站点将拥有更大的用户量。当前稳定版本是[v2.1.2](http://www.mipcms.cn/mipcms-2.1.2.zip)。   
 
+[Amila Laravel CMS](https://www.laravelcms.tech/CN-Laravel-CMS.html) Laravel CMS特别适合整合已有的Laravel项目（也适合全新安装的Laravel 6网站），它提供内容管理，不涉及会员和权限，不影响已有Laravel项目运营。安装后可以快速生成网站。自带API接口。有中文版。
+
 
 ## OA
 [小微OA](http://www.smeoa.com/): 小微OA是针对小公司量身定做的办公系统，主要功能：邮件，审批，信息，文档，任务，外勤微信定位，微信考勤，微信通知。
