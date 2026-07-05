@@ -33,6 +33,8 @@
 
 [Amila Laravel CMS](https://www.laravelcms.tech/CN-Laravel-CMS.html) Laravel CMS特别适合整合已有的Laravel项目（也适合全新安装的Laravel 6网站），它提供内容管理，不涉及会员和权限，不影响已有Laravel项目运营。安装后可以快速生成网站。自带API接口。有中文版。
 
+[UnfoldCMS](https://unfoldcms.com) - 基于 Laravel 12 + React 19 + shadcn/ui 构建的自托管 CMS，提供 REST API v1（42个端点）、HMAC 签名 Webhooks，以及适配 Next.js、Astro、SvelteKit 和 Nuxt 的无头模式。([Source Code](https://github.com/hpakdaman/unfoldcms))
+
 
 ## OA
 [小微OA](http://www.smeoa.com/): 小微OA是针对小公司量身定做的办公系统，主要功能：邮件，审批，信息，文档，任务，外勤微信定位，微信考勤，微信通知。
